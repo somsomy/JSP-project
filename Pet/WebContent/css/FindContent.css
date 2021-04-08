@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+#catFindTab {
+	text-align: center;
+	width: 70%px;
+	margin: 40px auto;
+border: 10px solid rgb(250, 31, 36);
+background-image: url("../images/find.png");
+
+}
+
+
+#catFindTab td {
+	text-align: center;
+	padding: 3px;
+	
+}
+
+#catFindTab textarea {
+	width: 585px;
+	height: 300px;
+	resize: none;
+	border: none;
+}
+
+#catFindTab #phone {
+	height: 60px;
+	background-color: rgb(250, 31, 36);
+	color: white;
+	font-weight:bold;
+	font-size: 40px;
+}
+#pcolor {
+	border: 2px solid rgb(250, 31, 36);
+}
+
+.bname {
+	widht: 100px;
+	font-weight:bold;
+	background-color: #d9d9d9;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+.bcont {
+	width: 230px;
+	background-color: #F6F6F6;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.cont {
+	background-color: #F6F6F6;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.gender {
+	width: 90px;
+	font-weight:bold;
+	background-color: #d9d9d9;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+#imgMargin {
+	padding-top: 180px !important;
+	padding-bottom: 20px !important;
+}
+
+.file {
+	display: inline-block;
+  padding: .5em .75em;
+  color: #fff;
+  font-size: inherit;
+  line-height: normal;
+  vertical-align: middle;
+  background-color: #aeaeae;
+  cursor: pointer;
+  border-radius: .25em;
+  -webkit-transition: background-color 0.2s;
+  transition: background-color 0.2s;
+}
+#file {
+ position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+	
+}

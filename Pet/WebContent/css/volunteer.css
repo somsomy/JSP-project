@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.thno {
+	width: 50px;
+}
+
+td {
+	text-align: center;
+	
+}
+
+#tdSub {
+	text-align: left !important;
+}

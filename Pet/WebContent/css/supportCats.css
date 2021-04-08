@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+table {
+	width: 90%;
+	box-shadow: 0 0 20px #D5D5D5;
+	margin: 30px auto;
+	cursor: pointer;
+	text-align: left;
+	
+}
+
+table:hover {
+	-webkit-transform: scale(1.05);
+     -moz-transform: scale(1.05);
+      -ms-transform: scale(1.05);
+       -o-transform: scale(1.05);
+          transform: scale(1.05);  
+          
+    border: 2px solid skyblue;
+    background-color: #F8FFFF;
+}
+
+#catimg {
+	width: 330px;
+}
+
+#catName {
+	font-size: 30px;
+	color: #368AFF;
+	font-weight: bold;
+}
+
+.supBtn {
+	color: white;
+	border: none;
+	width: 100px;
+	background-color: skyblue;
+	padding: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.supBtn:hover {
+	background-color: #106de0;
+}
+
+td {
+	font-size: 20px;
+}
+
+.info {
+	color: #a8a8a8;
+}

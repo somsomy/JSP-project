@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: nanumGothic;
+	src:url("NanumBarunGothic.ttf") format(truetype);
+}
+
+@font-face {
+	font-family: DabangguB;
+	src:url("Typo_DabangguB.ttf");
+}
+
+
+#join{
+	font-family: nanumGothic;
+}
+
+.img_text {
+	font-family: DabbanguB;
+}
+
+form#join fieldset legend {
+	font-family: nanumGothic;
+}
+
+article h1 {
+	font-family: nanumGothic;
+}

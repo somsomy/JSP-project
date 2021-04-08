@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+#ctexta {
+	text-align: left;
+	width: 585px;
+	height: 300px;
+	resize: none;
+	border: none;
+}
+
+#ctr {
+	border-top: 2px solid;
+}
+
+#cbtr {
+	
+	border-bottom: 2px solid;
+}
+.tdtd {
+	width: 300px;
+	text-align: left !important;
+}
+
+#tsub {
+	text-align: left !important;
+}
+
+#subject {
+	border: none;
+	width: 585px;
+}
+
+table input {
+	border: none;
+}
+
+.ttd {
+	width: 100px;
+}
+
+.file {
+	display: inline-block;
+  padding: .5em .75em;
+  color: #fff;
+  font-size: inherit;
+  line-height: normal;
+  vertical-align: middle;
+  background-color: #aeaeae;
+  cursor: pointer;
+  border-radius: .25em;
+  -webkit-transition: background-color 0.2s;
+  transition: background-color 0.2s;
+}
+#file {
+ position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+	
+}
+
+#adbd {
+	border-bottom: 2px solid;
+}
+

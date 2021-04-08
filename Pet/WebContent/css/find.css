@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+#topTable {
+	width: 100%;
+	margin: 40px auto;
+}
+
+
+.findTab {
+	cursor: pointer;
+}
+
+
+.ftd {
+	padding-right: 10px;
+	width: 270px;
+	height: 270px;
+}
+
+.ttd {
+	height: 30px;
+	vertical-align: top;
+	padding-top: 5px;
+	font-size: 15px;
+}
+
+.writeBtn {
+	float: right;
+	cursor: pointer;
+}

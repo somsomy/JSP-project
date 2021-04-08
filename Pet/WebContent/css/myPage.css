@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+#myinfo {
+	width: 80%;
+	margin: 70px auto;
+}
+
+#nick {
+	width: 72.2% !important;
+}
+
+#myPageEmail, #myPagePhone {
+	width: 50%px;
+}
+
+form#join input.myPageid{width: 100%;
+height: 28px;} 
+
+#buttons1 {
+	width: 70%;
+	margin: 0 auto;
+}
+
+form#join #buttons1 .submit{
+width: 65%;
+margin: 0 150px 0 150px;
+background-color: skyblue;
+color: #fff;
+border: none;
+	height: 35px; 
+	border-radius:10px; 
+	font-size: 16px;
+}
+
+form#join #buttons1 .cancel{
+width: 65%;
+margin: 10px 150px 0 150px;
+background-color: #c3c3c3;
+color: #fff;
+border: none;
+	height: 35px; 
+	border-radius:10px; 
+	font-size: 16px;
+}
+
+form#join #buttons1 .submit:hover {
+	cursor: pointer;
+	background-color: #106de0;
+}
+
+form#join #buttons1 .cancel:hover {
+	cursor: pointer;
+	background-color: #717171;
+}

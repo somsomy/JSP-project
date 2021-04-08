@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+ form input#id,#nick {
+ 	width: 70%;
+ 	height: 30px;
+ 	border: 1px solid #c3c3c3;
+ }
+ .btn {
+ 	width: 20%;
+ 	margin-left: 20px;
+ 	padding: 5px;
+  	border: none;
+  	color: white;
+  	background-color: skyblue;
+  	cursor: pointer;
+ }
+ 
+ img {
+ 	width: 100%;
+ 	position: relative;
+ 	top: 0;
+ 	left: 0;
+ }
+ h4 {
+ 	color: black;
+ 	position: absolute;
+ 	top: 5%;
+ 	left: 39%;
+ 	text-shadow: 0 0 5px white;
+ }
+ 
+ h2 {
+ 	color: white;
+ 	position: absolute;
+ 	top: 11%;
+ 	left: 30%;
+ }
+ 
+ div {
+ 	margin-top: 10px;
+ 	font-size: 12px;
+ }
+ 
+ #id_container {
+
+ 	width: 100%;
+ 	margin: 20px auto;
+ }
+ 
+ #idCheck,#nickCheck {
+ 	display: flex;
+ 	justify-content: center;
+ 	font-size: 12px;
+ }
+ 
+ #idNo {
+ 	color: red;
+ }
+ 
+ #idOk {
+ 	color: #21ab12;
+ }

@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+#hinfo {
+	font-size: 20px;
+	margin: 70px auto;
+	text-align: center;
+}
+
+.mycatsTable {
+	margin: 70px auto;
+}
+
+.mycats {
+	width: 60%;
+	margin: 10px;
+	cursor: pointer;
+}
+
+.mycatsImg {
+	width: 300px;
+	height: 300px;
+}
+
+.mycatsName {
+	font-size: 16px;
+	text-align: center;
+}
+
+td {
+	font-size: 15px;
+	text-align: center;
+	padding: 7px;
+	background-color: #f4f4f4;
+}
+
+.tdtdtd {
+	color: white;
+	width: 120px;
+	background-color: skyblue;
+}
+
+#supInfo {
+	width: 30%;
+}
+
+#supInfo #supporter {
+	padding: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	background: none;
+}

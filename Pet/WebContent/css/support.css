@@ -1,0 +1,135 @@
+@charset "UTF-8";
+
+.sub {
+	width: 173px;
+	background-color: #dff7ff;
+}
+input {
+	border: 1px solid #c3c3c3;
+	margin-left: 10px;
+}
+.table1 {
+	font-size: 16px;
+	margin: 70px auto;
+	padding: 10px;
+	box-shadow: 0 0 15px #c3c3c3;
+}
+
+.step {
+	font-size: 25px;
+	margin-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+#step1 {
+	font-size: 30px;
+	color: skyblue;
+	font-weight: bold;
+}
+
+h2 {
+	margin: 70px 0 20px;
+	text-align: center;
+}
+
+.supinfo {
+	margin: 50px auto;
+}
+
+#suptype td{
+	font-size: 15px;
+	padding: 10px;
+}
+
+#supporterInfo {
+	font-size: 16px;
+	vertical-align: middle;
+}
+
+#supporterInfo input {
+	width: 100%;
+	font-size: 16px;
+	height: 30px;
+}
+#supporterInfo #postCode {
+	width: 30%;
+}
+#supporterInfo .dup {
+	width: 130px;
+	height: 25px;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	background-color: skyblue;
+	cursor: pointer;
+	vertical-align: middle;
+	text-align: center;
+	
+}
+
+#payInfo {
+	font-size: 16px;
+	vertical-align: middle;
+}
+
+#payInfo input {
+	width: 100%;
+	font-size: 16px;
+	height: 30px;
+}
+
+#payInfo select {
+	margin-left: 10px;
+	border: 1px solid #c3c3c3;
+	height: 30px;
+}
+
+
+.dot {
+	width: 5px;
+	vertical-align: middle;
+}
+
+.info_ck {
+	border-bottom: 1px solid #c3c3c3;
+}
+
+.ckpoint {
+	cursor: pointer;
+}
+.pay {
+	vertical-align: middle;
+}
+#ckaccount, #ckcard {
+	width: 12px !important;
+}
+
+#hinfo {
+	font-size: 20px;
+	margin: 70px auto;
+	text-align: center;
+}
+
+.mycats {
+	width: 20%;
+	margin: 70px auto;
+	cursor: pointer;
+}
+
+.mycats td{
+	text-align: center;
+	font-size: 16px;
+	padding: 7px;
+	background-color: #f3f3f3;
+}
+
+.mycatsImg {
+	width: 300px;
+	height: 300px;
+}
+
+.tdtdtd {
+	color: white;
+	width: 120px;
+	background-color: skyblue !important;
+}
