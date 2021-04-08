@@ -14,7 +14,6 @@ public class JoinEmail {
 	public static void naverMailSend(String to) {
 		String host = "smtp.naver.com";
 		String user = "yun07003@naver.com"; 
-		String password = "@Tndus6020";      
 		
 		Properties props = new Properties(); 
 		props.put("mail.smtp.host", host); 
