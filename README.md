@@ -30,7 +30,7 @@
 - 드롭다운 메뉴 구성
 - 스크립트를 사용한 이미지 자동 슬라이드 (수동 버튼 가능)
 - 페이징 처리하여 최신글 보기 가능, 검색 기능
-- ![main](https://user-images.githubusercontent.com/78060557/116646483-23375100-a9b3-11eb-8119-3f85bff9c9d0.png)
+- ![main](https://user-images.githubusercontent.com/78060557/116646483-23375100-a9b3-11eb-8119-3f85bff9c9d0.png){: width="300" height="200"}
 
 ###### 회원
 
