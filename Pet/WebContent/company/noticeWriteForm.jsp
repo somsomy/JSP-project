@@ -27,7 +27,6 @@
 request.setCharacterEncoding("utf-8");
 
 String id=(String)session.getAttribute("id");
-String ing="보호중";
 
 MemberDAO mdao=new MemberDAO();
 
